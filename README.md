@@ -1,0 +1,3 @@
+- **Programmer Full Stack - Student | BCC - College student**
+- I'm specializing in full stack programming.
+- C++, Java, Python, JavaScript e JQuery, HTLM e CSS, PHP, SQL e MySQL.
