@@ -1,2 +1,2 @@
-- ### **Programmer Full Stack - Student | BCC - College student**
+- ### **Full Stack Programmer - Student | BCC - College student**
 - ##### *C++, Java, Python, JavaScript and JQuery, HTLM and CSS, PHP, SQL and MySQL.*
