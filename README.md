@@ -1,2 +1,2 @@
-- ### **Full Stack Programmer - Student | BCC - College student**
-- ##### *C++, Java, Python, JavaScript and JQuery, HTLM and CSS, PHP, SQL and MySQL.*
+- ### **Full stack developer - student | BCC - College student**
+- ##### *Javascript, React, Node, hooks, Redux, Express, HTLM, CSS, TypeScript, noSQL(MongoDB), Java, Python, WordPress, SQL(MySQL).*
