@@ -20,21 +20,21 @@
   </br></br>
   <img align="center" alt="Java" width="35" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Python" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Jupyter" width="35" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="matlab" width="35" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Jupyter" width="35" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Matlab" width="35" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
   <img align="center" alt="NumPy" width="35" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="pandas" width="35" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Pandas" width="35" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="noSQL(mongoDB)" width="35" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="SQL(MySQL)" width="35" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="vim" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
-  <img align="center" alt="Debian" width="35" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
+  <img align="center" alt="Git" width="35" src="https://github.com/devicons/devicon/blob/master/icons/debian/git-original.svg">
+  <img align="center" alt="Vim" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
 </div>
 
 </br></br>
 
 <div align="center" style="padding: 20px;"> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lucaschagasribeir/?igshid=YmMyMTA2M2Y%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/834111810725871677/951527614835720252" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://mail.google.com/mail/u/0/" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-chagas-ribeiro-07b906207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
