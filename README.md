@@ -26,7 +26,7 @@
   <img align="center" alt="Pandas" width="35" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="noSQL(mongoDB)" width="35" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="SQL(MySQL)" width="35" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Git" width="35" src="https://github.com/devicons/devicon/blob/master/icons/debian/git-original.svg">
+  <img align="center" alt="Git" width="35" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Vim" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
 </div>
 
