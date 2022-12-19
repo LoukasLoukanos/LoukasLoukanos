@@ -1,11 +1,5 @@
 # **Full stack developer - student | BCC - College student**
 
-<div align="center">
-  <a href="https://github.com/LoukasLoukanos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LoukasLoukanos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoukasLoukanos&layout=compact&langs_count=20&theme=tokyonight"/>
-</div>
-
 <div align="center"><br>
   <img align="center" alt="figma" width="35" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Js" width="35" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -17,7 +11,6 @@
   <img align="center" alt="Express" width="35" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
   <img align="center" alt="React" width="35" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" width="35" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-  </br></br>
   <img align="center" alt="Java" width="35" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Python" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Jupyter" width="35" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
@@ -28,6 +21,14 @@
   <img align="center" alt="SQL(MySQL)" width="35" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git" width="35" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Vim" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
+</div>
+
+</br></br>
+
+<div align="center">
+  <a href="https://github.com/LoukasLoukanos">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoukasLoukanos&layout=compact&langs_count=20&theme=tokyonight"/>
+  </a>
 </div>
 
 </br></br>
