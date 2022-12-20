@@ -26,7 +26,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoukasLoukanos&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoukasLoukanos&theme=2077) |
   | :-: | :-: |
   
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoukasLoukanos&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoukasLoukanos&theme=github_dark) |  <a href="https://github.com/LoukasLoukanos"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoukasLoukanos&layout=compact&langs_count=20&theme=github_dark&hide_border=true"/></a> |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoukasLoukanos&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoukasLoukanos&theme=tokyonight) |  <a href="https://github.com/LoukasLoukanos"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoukasLoukanos&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"/></a> |
   | :-: | :-: | :-: |
   
   | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LoukasLoukanos&theme=solarized-dark&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LoukasLoukanos&theme=solarized_dark&utcOffset=7) |
