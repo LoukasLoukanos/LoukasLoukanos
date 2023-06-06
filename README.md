@@ -23,19 +23,12 @@
   <img align="center" alt="Vim" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
   </br></br>
   
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoukasLoukanos&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoukasLoukanos&theme=2077) |
-  | :-: | :-: |
-  
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoukasLoukanos&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoukasLoukanos&theme=tokyonight) |  <a href="https://github.com/LoukasLoukanos"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoukasLoukanos&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"/></a> |
-  | :-: | :-: | :-: |
-  
-  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LoukasLoukanos&theme=solarized-dark&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LoukasLoukanos&theme=solarized_dark&utcOffset=7) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoukasLoukanos&theme=2077) | <a href="https://github.com/LoukasLoukanos"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoukasLoukanos&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"/></a> |
   | :-: | :-: |
   
   </br>
   
   <a href="https://www.instagram.com/lucaschagasribeir/?igshid=YmMyMTA2M2Y%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/834111810725871677/951527614835720252" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://mail.google.com/mail/u/0/" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-chagas-ribeiro-07b906207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/834111810725871677/951527614835720252" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
