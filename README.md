@@ -21,9 +21,9 @@
   <img align="center" alt="SQL(MySQL)" width="35" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git" width="35" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Vim" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
-  </br>
   
-  <a href="https://www.instagram.com/lucaschagasribeir/?igshid=YmMyMTA2M2Y%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </br></br>
+  
   <a href="https://www.linkedin.com/in/lucas-chagas-ribeiro-07b906207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/834111810725871677/951527614835720252" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
