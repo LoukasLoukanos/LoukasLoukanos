@@ -13,10 +13,6 @@
   <img align="center" alt="Redux" width="35" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
   <img align="center" alt="Java" width="35" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Python" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Jupyter" width="35" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Matlab" width="35" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
-  <img align="center" alt="NumPy" width="35" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Pandas" width="35" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="noSQL(mongoDB)" width="35" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="SQL(MySQL)" width="35" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git" width="35" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
