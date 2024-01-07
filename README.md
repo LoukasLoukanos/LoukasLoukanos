@@ -1,5 +1,3 @@
-# **Full stack developer - student | BCC - College student**
-
 <div align="center">
   <img align="center" alt="figma" width="35" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Js" width="35" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
