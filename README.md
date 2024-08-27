@@ -1,4 +1,4 @@
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoukasLoukanos&theme=2077) | <a href="https://github.com/LoukasLoukanos"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoukasLoukanos&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"/></a> |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoukasLoukanos&theme=2077) | <a href="https://github.com/LoukasLoukanos"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoukasLoukanos&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"/></a> |
 | :-: | :-: |
 
 ## Tech Stack
@@ -62,12 +62,11 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=matplotlib&logoColor=ffffff)
 ![Scipy](https://img.shields.io/badge/Scipy-8CAAE6?style=plastic&logo=scipy&logoColor=ffffff)
 ![ComputerScience](https://img.shields.io/badge/Computer%20Science-008080?style=plastic&logo=computer-science&logoColor=ffffff)
-</div>
 
 ## Socials
 
-<a href="#" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=plastic&logo=codepen&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/channels/834111810725871677/951527614835720252" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://discordapp.com/users/LucasCR#3091" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://codepen.io/loukanos" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=plastic&logo=codepen&logoColor=white" target="_blank"></a>
+<a href="https://www.workana.com/freelancer/0540f1167459bcea408ba1549efc7742" target="_blank"><img alt="Workana" src="https://img.shields.io/badge/Workana-00A3E0?style=plastic&logo=workana&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-chagas-ribeiro-07b906207" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="#" target="_blank"><img alt="Workana" src="https://img.shields.io/badge/Workana-00A3E0?style=plastic&logo=workana&logoColor=white" target="_blank"></a>
 
